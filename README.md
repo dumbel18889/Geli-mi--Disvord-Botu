@@ -1,2 +1,2 @@
-# Geli-mi--Disvord-Botu
+# gELİSMİS dİSCORD BOTU
 DumBel botudur 
